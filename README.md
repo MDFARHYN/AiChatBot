@@ -22,8 +22,8 @@ Developed to provide seamless support for businesses, this AI Chat Bot is design
 ## 🛠️ Setup and Usage
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/ai-chat-bot
-   cd ai-chat-bot
+   git clone git@github.com:MDFARHYN/AiChatBot.git
+   cd AiChatBot
    ```
 2. **Install Dependencies**:
    ```bash
